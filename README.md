@@ -1,6 +1,6 @@
-# S3E
+# S3Explorer
 
-S3 compatible storage
+S3 compatible storage explorer
 
 ![](showcase/1.png)
 ![](showcase/2.png)
