@@ -1,23 +1,32 @@
 # S3E
 
-## Rationale
+S3 compatible storage
 
-We used S3 compatible storage service a lot in my work, however we only have a tools which mainly targetted at
-programmer and not really intuitive for non-programmers to use. And there is not a single free client exist which match
-our needs.
+![](showcase/1.png)
+![](showcase/2.png)
 
 ## Features
 
-- [ ] Authentication
-    - [ ] Access token based
-- [ ] File list
-- [ ] File download
-- [ ] File delete
+- [x] Authentication
+    - [x] Access token based
+- [ ] File
+    - [x] File download
+    - [ ] File delete
+    - [ ] File upload
 
 ## Supported Platform
 
-- [x] Desktop
-- [] Android
+- [ ] Desktop
+  - [x] Windows
+  - [x] MacOS
+- [ ] Mobile
+  - [ ] Android
+  - [ ] iOS
+
+## Rationale
+
+We used S3 compatible storage service a lot in my work, however we only have a tools which are not easy to be used by a
+non-tech guy. And there is not a single free client exist which match our needs.
 
 ## License
 

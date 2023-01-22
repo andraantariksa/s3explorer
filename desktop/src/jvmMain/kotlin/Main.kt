@@ -4,7 +4,7 @@ import com.gadostudio.common.App
 
 
 fun main() = application {
-    Window(onCloseRequest = ::exitApplication) {
+    Window(onCloseRequest = ::exitApplication, title = "S3Explorer") {
         App()
     }
 }
